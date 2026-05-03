@@ -1,0 +1,6 @@
+.vscode
+.env
+main
+vakula
+data/in/*
+data/out/*
